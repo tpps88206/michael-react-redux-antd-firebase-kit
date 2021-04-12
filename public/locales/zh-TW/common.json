@@ -1,0 +1,12 @@
+{
+  "signIn": "登入",
+  "signUp": "註冊",
+  "signOut": "登出",
+  "joinUs": "加入我們",
+  "welcomeBack": "歡迎回來",
+  "signUpWithGoogle": "使用 Google 註冊",
+  "signInWithGoogle": "使用 Google 登入",
+  "alreadyHaveAnAccount": "已經擁有帳號了？",
+  "noAccount": "沒有帳號嗎？",
+  "createOne": "註冊帳號"
+}
